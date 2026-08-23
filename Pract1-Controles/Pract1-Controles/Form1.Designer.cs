@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DIA = new Label();
-            label2 = new Label();
-            label1 = new Label();
+            lblDia = new Label();
+            lblMes = new Label();
+            lblAnio = new Label();
             txtDia = new TextBox();
             txtMes = new TextBox();
             txtAnio = new TextBox();
@@ -39,33 +39,32 @@
             respuesta = new Label();
             SuspendLayout();
             // 
-            // DIA
+            // lblDia
             // 
-            DIA.AutoSize = true;
-            DIA.Location = new Point(59, 63);
-            DIA.Name = "DIA";
-            DIA.Size = new Size(26, 15);
-            DIA.TabIndex = 0;
-            DIA.Text = "DIA";
-          
+            lblDia.AutoSize = true;
+            lblDia.Location = new Point(59, 63);
+            lblDia.Name = "lblDia";
+            lblDia.Size = new Size(26, 15);
+            lblDia.TabIndex = 0;
+            lblDia.Text = "DIA";
             // 
-            // label2
+            // lblMes
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(59, 124);
-            label2.Name = "label2";
-            label2.Size = new Size(30, 15);
-            label2.TabIndex = 1;
-            label2.Text = "MES";
+            lblMes.AutoSize = true;
+            lblMes.Location = new Point(59, 124);
+            lblMes.Name = "lblMes";
+            lblMes.Size = new Size(30, 15);
+            lblMes.TabIndex = 1;
+            lblMes.Text = "MES";
             // 
-            // label1
+            // lblAnio
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(59, 193);
-            label1.Name = "label1";
-            label1.Size = new Size(36, 15);
-            label1.TabIndex = 2;
-            label1.Text = "ANIO";
+            lblAnio.AutoSize = true;
+            lblAnio.Location = new Point(59, 193);
+            lblAnio.Name = "lblAnio";
+            lblAnio.Size = new Size(36, 15);
+            lblAnio.TabIndex = 2;
+            lblAnio.Text = "ANIO";
             // 
             // txtDia
             // 
@@ -128,9 +127,9 @@
             Controls.Add(txtAnio);
             Controls.Add(txtMes);
             Controls.Add(txtDia);
-            Controls.Add(label1);
-            Controls.Add(label2);
-            Controls.Add(DIA);
+            Controls.Add(lblAnio);
+            Controls.Add(lblMes);
+            Controls.Add(lblDia);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
@@ -139,9 +138,9 @@
 
         #endregion
 
-        private Label DIA;
-        private Label label2;
-        private Label label1;
+        private Label lblDia;
+        private Label lblMes;
+        private Label lblAnio;
         private TextBox txtDia;
         private TextBox txtMes;
         private TextBox txtAnio;
