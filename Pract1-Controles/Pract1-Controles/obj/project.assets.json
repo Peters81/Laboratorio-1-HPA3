@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristell\\Desktop\\HPA3\\Pract1-Controles\\Pract1-Controles\\Pract1-Controles.csproj",
+      "projectUniqueName": "C:\\Users\\Cristell\\Desktop\\HPA3\\Laboratorio-1-HPA3\\Pract1-Controles\\Pract1-Controles\\Pract1-Controles.csproj",
       "projectName": "Pract1-Controles",
-      "projectPath": "C:\\Users\\Cristell\\Desktop\\HPA3\\Pract1-Controles\\Pract1-Controles\\Pract1-Controles.csproj",
+      "projectPath": "C:\\Users\\Cristell\\Desktop\\HPA3\\Laboratorio-1-HPA3\\Pract1-Controles\\Pract1-Controles\\Pract1-Controles.csproj",
       "packagesPath": "C:\\Users\\Cristell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristell\\Desktop\\HPA3\\Pract1-Controles\\Pract1-Controles\\obj\\",
+      "outputPath": "C:\\Users\\Cristell\\Desktop\\HPA3\\Laboratorio-1-HPA3\\Pract1-Controles\\Pract1-Controles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristell\\AppData\\Roaming\\NuGet\\NuGet.Config",
