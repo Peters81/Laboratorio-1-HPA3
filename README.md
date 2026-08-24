@@ -4,7 +4,7 @@
 
 ### Estudiante
 * **Nombre:** Cristell Peters
-* **Grupo:** 1IL122
+* **Grupo:** 1IL133
 * **Año:** 2026
 
 ###  Descripción
