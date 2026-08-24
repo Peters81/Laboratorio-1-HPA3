@@ -15,3 +15,21 @@ C:\Users\Cristell\Desktop\HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\D
 C:\Users\Cristell\Desktop\HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.genruntimeconfig.cache
 C:\Users\Cristell\Desktop\HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\ref\Descuentos.dll
 C:\Users\Cristell\Desktop\HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.csproj.Up2Date
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\bin\Debug\net10.0-windows\Descuentos.exe
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\bin\Debug\net10.0-windows\Descuentos.deps.json
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\bin\Debug\net10.0-windows\Descuentos.runtimeconfig.json
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\bin\Debug\net10.0-windows\Descuentos.dll
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\bin\Debug\net10.0-windows\Descuentos.pdb
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.Form1.resources
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.csproj.GenerateResource.cache
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.AssemblyInfoInputs.cache
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.AssemblyInfo.cs
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.sourcelink.json
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.dll
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\refint\Descuentos.dll
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.pdb
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.genruntimeconfig.cache
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\ref\Descuentos.dll
+C:\Users\niomu\OneDrive - Universidad Tecnológica de Panamá\SEMESTRE 2 - 2026\Laboratorio-1-HPA3\Descuentos\Descuentos\obj\Debug\net10.0-windows\Descuentos.csproj.Up2Date
