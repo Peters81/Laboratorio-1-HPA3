@@ -1,82 +1,89 @@
-# 💻 Laboratorio 1 - HPA3
+# Laboratorio 1 - HPA3
 
-## 📚 Información del laboratorio
+---
+
+## Universidad Tecnológica de Panamá
+
+**Facultad de Ingeniería de Sistemas Computacionales**
+
+**Herramientas de la Programación Aplicada III (.NET)**
 
 | Dato | Información |
 |---|---|
-| **Asignatura** | Herramientas de la Programación Aplicada III (.NET) |
 | **Laboratorio** | Laboratorio #1 |
 | **Estudiante** | Cristell Peters |
 | **Grupo** | 1II133 |
-| **Carrera** | Ingeniería en Sistemas y Computación |
-| **Institución** | Universidad Tecnológica de Panamá |
 | **Año** | 2026 |
-| **Fecha de ejecución** | 15/04/2026 |
+| **Fecha de ejecución** | 15 de abril de 2026 |
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
-- Aplicar los conocimientos básicos de programación en C#.
-- Trabajar con aplicaciones Windows Forms utilizando .NET Framework.
-- Utilizar controles como Label, TextBox, Button, GroupBox y RadioButton.
-- Implementar estructuras condicionales para resolver problemas.
-- Aplicar propiedades y métodos de los controles de Windows Forms.
-
----
-
-## 📋 Contenido del laboratorio
-
-En este laboratorio se desarrollaron tres prácticas utilizando C# y aplicaciones Windows Forms. Cada práctica permite aplicar diferentes conceptos relacionados con el manejo de controles, eventos y estructuras de programación.
-
-Las prácticas incluidas en el repositorio son:
-
-1. **Pract1-Controles**
-2. **Descuentos**
-3. **Pract8-EstructuraIf**
+- Comprender el uso de controles básicos en aplicaciones Windows Forms.
+- Aplicar conceptos básicos de programación utilizando C#.
+- Utilizar estructuras condicionales para resolver problemas.
+- Trabajar con diferentes controles y propiedades de Windows Forms.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Introducción
 
-- **Lenguaje:** C#
-- **Plataforma:** .NET Framework
-- **Tipo de aplicación:** Windows Forms
-- **IDE:** Visual Studio
-- **Control de versiones:** Git / GitHub
+En este laboratorio se desarrollaron tres prácticas utilizando el lenguaje C# y aplicaciones Windows Forms. Las actividades permitieron trabajar con diferentes controles de la interfaz, propiedades, eventos y estructuras condicionales.
+
+A través de las prácticas se aplicaron conceptos básicos de programación para crear aplicaciones sencillas capaces de recibir información del usuario, procesarla y mostrar resultados.
 
 ---
 
-## 💻 Requisitos previos
+## Contenido del repositorio
 
-Para ejecutar los proyectos se necesita:
+El repositorio contiene las tres prácticas desarrolladas durante el Laboratorio #1:
 
-- Windows.
+- **Pract1-Controles:** trabajo con controles básicos de Windows Forms.
+- **Descuentos:** cálculo de descuentos de acuerdo con el valor de una venta.
+- **Pract8-EstructuraIf:** aplicación de estructuras condicionales mediante diferentes opciones de operación.
+
+---
+
+## Tecnologías utilizadas
+
+- C#
+- .NET Framework
+- Windows Forms
+- Visual Studio
+- Git
+- GitHub
+
+---
+
+## Requisitos previos
+
+Para ejecutar los proyectos es necesario contar con:
+
+- Sistema operativo Windows.
 - Visual Studio.
-- Soporte para proyectos de C# Windows Forms (.NET Framework).
-- Git, en caso de querer clonar el repositorio.
+- Herramientas para desarrollo de aplicaciones Windows Forms.
+- .NET Framework correspondiente al proyecto.
 
 ---
 
-# 🧩 Prácticas desarrolladas
+## Prácticas desarrolladas
 
-## 1. Pract1-Controles
+### 1. Pract1-Controles
 
-En esta práctica se desarrolló una aplicación de Windows Forms utilizando diferentes controles como `Label`, `TextBox` y `Button`.
+En esta práctica se trabajó con controles básicos de Windows Forms, incluyendo `Label`, `TextBox` y `Button`.
 
-El botón **Mostrar** permite presentar la fecha completa a partir de los datos ingresados, mientras que el botón **Finalizar** muestra mensajes al usuario y posteriormente cierra la ventana.
+Se desarrollaron acciones para mostrar información ingresada por el usuario mediante botones y mensajes.
 
-También se trabajó con la propiedad `Text`, los operadores `+` y `+=` y el uso de `MessageBox.Show()`.
-
-### 📸 Evidencia
+#### Evidencia
 
 ![Práctica 1 - Controles](imagenes/pract1-controles.png)
 
 ---
 
-## 2. Descuentos
+### 2. Descuentos
 
-En esta práctica se desarrolló una aplicación para calcular el descuento correspondiente a una venta según su valor.
+En esta práctica se desarrolló una aplicación para calcular el descuento correspondiente según el valor de una venta.
 
 | Valor de la venta | Descuento |
 |---|---:|
@@ -85,52 +92,36 @@ En esta práctica se desarrolló una aplicación para calcular el descuento corr
 | Más de $100 hasta $299 | 10% |
 | $100 o menos | 0% |
 
-El programa muestra el porcentaje de descuento, el monto descontado y el valor final de la venta.
+El programa permite obtener el porcentaje de descuento, el monto descontado y el valor final de la venta.
 
-Para los controles se utilizó la nomenclatura indicada en la práctica:
-
-- `lbl` para Labels.
-- `btn` para Buttons.
-- `txt` para TextBoxes.
-
-### 📸 Evidencia
+#### Evidencia
 
 ![Práctica 2 - Descuentos](imagenes/descuentos.png)
 
 ---
 
-## 3. Pract8-EstructuraIf
+### 3. Pract8-EstructuraIf
 
-En esta práctica se desarrolló un formulario utilizando un `GroupBox` para agrupar las opciones disponibles.
+En esta práctica se trabajó con la estructura condicional `If` y controles `GroupBox` y `RadioButton`.
 
-El usuario ingresa los valores y selecciona mediante `RadioButton` la operación que desea realizar. La operación cambia dependiendo de la opción seleccionada.
+El usuario puede seleccionar una operación y el programa realiza el cálculo correspondiente.
 
-Las operaciones consideradas son:
-
-- Suma
-- Resta
-- Multiplicación
-- División
-
-### 📸 Evidencia
+#### Evidencia
 
 ![Práctica 3 - Estructura If](imagenes/pract8-estructura-if.png)
 
 ---
 
-# 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```text
 Laboratorio-1-HPA3/
 │
 ├── Descuentos/
-│   └── Proyecto de la práctica #2
 │
 ├── Pract1-Controles/
-│   └── Proyecto de la práctica #1
 │
 ├── Pract8-EstructuraIf/
-│   └── Proyecto de la práctica #3
 │
 ├── imagenes/
 │   ├── pract1-controles.png
