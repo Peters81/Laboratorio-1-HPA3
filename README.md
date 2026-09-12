@@ -35,11 +35,11 @@ En este laboratorio se desarrollaron tres prácticas utilizando C# y aplicacione
 
 Las prácticas incluidas en el repositorio son:
 
-🟠 **Pract1-Controles**
+🟠 **Controles**
 
 🟠 **Descuentos**
 
-🟠 **Pract8-EstructuraIf**
+🟠 **EstructuraIf**
 
 ---
 
@@ -73,7 +73,7 @@ Para ejecutar los proyectos se necesita:
 
 # Prácticas desarrolladas
 
-## 1. Pract1-Controles
+## 1. Controles
 
 En esta práctica se desarrolló una aplicación de Windows Forms utilizando diferentes controles como `Label`, `TextBox` y `Button`.
 
@@ -114,7 +114,7 @@ Para los controles se utilizó la nomenclatura indicada en la práctica:
 
 ---
 
-## 3. Pract8-EstructuraIf
+## 3. EstructuraIf
 
 En esta práctica se desarrolló un formulario utilizando un `GroupBox` para agrupar las opciones disponibles.
 
