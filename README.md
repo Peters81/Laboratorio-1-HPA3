@@ -83,7 +83,7 @@ También se trabajó con la propiedad `Text`, los operadores `+` y `+=` y el uso
 
 ### Evidencia
 
-![Práctica 1 - Controles](./imagenes/problema1.png)
+![Problema 1](./imagenes/problema1.png)
 
 ---
 
