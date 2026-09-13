@@ -83,7 +83,7 @@ También se trabajó con la propiedad `Text`, los operadores `+` y `+=` y el uso
 
 ### Evidencia
 
-![Práctica 1 - Controles](./imagenes/pract1-controles.png)
+![Práctica 1 - Controles](./imagenes/problema1.png)
 
 ---
 
@@ -110,7 +110,7 @@ Para los controles se utilizó la nomenclatura indicada en la práctica:
 
 ### Evidencia
 
-![Práctica 2 - Descuentos](./imagenes/descuentos.png)
+![Práctica 2 - Descuentos](./imagenes/problema2.png)
 
 ---
 
@@ -132,7 +132,7 @@ Las operaciones consideradas son:
 
 ### Evidencia
 
-![Práctica 3 - Estructura If](./imagenes/pract8-estructura-if.png)
+![Práctica 3 - Estructura If](./imagenes/problema3.png)
 
 ---
 
